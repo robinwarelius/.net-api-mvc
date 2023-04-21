@@ -1,0 +1,14 @@
+﻿@model CollectionModel
+@{
+    ViewBag.Title = "Products";
+}
+
+
+<section>
+    <div class="container user-input-links-item">
+        <a asp-controller="Home" asp-action="Index" class="user-input-link">Home > </a>
+        <span class="user-input-text">Products</span>
+    </div>
+
+    <partial name="~/Views/Shared/Partials/_CollectionPartial.cshtml" model="Model"></partial>
+</section>

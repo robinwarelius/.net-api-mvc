@@ -1,0 +1,87 @@
+﻿@model ProductAddRequestViewModel
+@{
+    ViewBag.Title = "Add Product";
+}
+
+
+
+<section class="user-input-content">
+
+    <div class="container user-input-links-item mt-3">
+        <a asp-controller="Home" asp-action="Index" class="user-input-link">Home > </a>
+        <span class="user-input-text">Add Product</span>
+    </div>
+
+
+    <div class="container user-input-form">
+
+        <form asp-controller="Admin" asp-action="AddProduct" method="post" novalidate>
+
+            <h6 class="user-input-title">Add Product</h6>
+
+            <div class="row">
+
+                <div class="user-input-item col-lg-6">
+                    <input class="user-input" asp-for="Title" placeholder="Title" />
+                    <span asp-validation-for="Title"></span>
+                </div>
+
+                <div class="user-input-item col-lg-6">
+                    <input class="user-input" asp-for="Price" placeholder="Price" />
+                    <span asp-validation-for="Price"></span>
+                </div>
+
+                <div class="user-input-item col-lg-6">
+                    <input class="user-input" asp-for="Rating" placeholder="Rating" />
+                    <span asp-validation-for="Rating"></span>
+                </div>
+
+                <div class="user-input-item col-lg-6">
+                    <input class="user-input" asp-for="ImageUrl" placeholder="Image Url" />
+                    <span asp-validation-for="ImageUrl"></span>
+                </div>
+
+                <div class="user-input-item col-lg-6">
+                    <input class="user-input" asp-for="Details" placeholder="Details" />
+                    <span asp-validation-for="Details"></span>
+                </div>
+
+                <div class="user-input-item col-lg-6">
+                    <input class="user-input" asp-for="SKU" placeholder="SKU" />
+                    <span asp-validation-for="SKU"></span>
+                </div>
+
+                <div class="user-input-item col-lg-6">
+                    <input class="user-input" asp-for="Brand" placeholder="Brand" />
+                    <span asp-validation-for="Brand"></span>
+                </div>
+
+                                                
+                <div class="user-input-item col-lg-6">
+                    <input class="user-input" asp-for="Color" placeholder="Color" />
+                    <span asp-validation-for="Color"></span>
+                </div>
+
+                <div class="col-lg-6">                 
+                    <select asp-for="CategoryId" class="drop-down-admin">
+                        <option value="" disabled selected>Category</option>
+                        <option value="b670c668-dbae-4a24-b73e-20ff0868a41a">New</option>
+                        <option value="97c46e14-e748-4582-ae15-60cc95bdf6b0">Featured</option>
+                        <option value="e9506723-cc8e-42a8-94b2-c3b168fe1cae">Popular</option>
+                    </select>
+                    <span asp-validation-for="CategoryId"></span>
+                </div>
+
+                <div class="colg-lg-6">
+                    <input class="user-input" asp-for="Date" value="@DateTime.Now" type="hidden" />
+                </div>
+                
+
+                <div class="user-input-item">
+                    <button class="input-button" type="submit">Add Product</button>
+                </div>
+            </>
+        </form>
+
+    </div>
+</section>

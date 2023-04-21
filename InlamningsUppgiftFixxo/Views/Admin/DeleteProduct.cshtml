@@ -1,0 +1,36 @@
+﻿@model CollectionModel
+@{
+    ViewBag.Title = "Delete Product";
+}
+
+<section id="delete-section">
+    <div class="container user-input-links-item">
+        <a asp-controller="Home" asp-action="Index" class="user-input-link">Home > </a>
+        <span class="user-input-text">DELETE</span>
+    </div>
+
+    <div class="container-fluid mt-5">
+        <div class="row">
+            <div class="profile-box col-lg-12">
+
+                <div class="mb-5 product-title">Delete Product</div>
+
+                <div class="collection-grid">
+                    <div class="item-collection">
+
+                        @foreach (var item in Model.CollectionItemModel)
+                        {
+                            <partial name="~/Views/Shared/Partials/_DeleteProductPartial.cshtml" model="item"></partial>
+                        }
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+
+

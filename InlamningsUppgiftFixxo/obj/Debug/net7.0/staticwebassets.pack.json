@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Robin\\OneDrive\\Skrivbord\\Asp.Net.01\\Inlämnings-Uppgift\\Uppgift\\InlamningsUppgiftFixxo\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Robin\\OneDrive\\Skrivbord\\Asp.Net.01\\Inlämnings-Uppgift\\Uppgift\\InlamningsUppgiftFixxo\\wwwroot\\images\\office-style.png",
+      "PackagePath": "staticwebassets\\images\\office-style.png"
+    },
+    {
+      "Id": "C:\\Users\\Robin\\OneDrive\\Skrivbord\\Asp.Net.01\\Inlämnings-Uppgift\\Uppgift\\InlamningsUppgiftFixxo\\wwwroot\\images\\party-style.png",
+      "PackagePath": "staticwebassets\\images\\party-style.png"
+    },
+    {
+      "Id": "C:\\Users\\Robin\\OneDrive\\Skrivbord\\Asp.Net.01\\Inlämnings-Uppgift\\Uppgift\\InlamningsUppgiftFixxo\\wwwroot\\images\\showcase-img.png",
+      "PackagePath": "staticwebassets\\images\\showcase-img.png"
+    },
+    {
+      "Id": "C:\\Users\\Robin\\OneDrive\\Skrivbord\\Asp.Net.01\\Inlämnings-Uppgift\\Uppgift\\InlamningsUppgiftFixxo\\wwwroot\\images\\stockholm.png",
+      "PackagePath": "staticwebassets\\images\\stockholm.png"
+    },
+    {
+      "Id": "C:\\Users\\Robin\\OneDrive\\Skrivbord\\Asp.Net.01\\Inlämnings-Uppgift\\Uppgift\\InlamningsUppgiftFixxo\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.InlamningsUppgiftFixxo.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.InlamningsUppgiftFixxo.props",
+      "PackagePath": "build\\InlamningsUppgiftFixxo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.InlamningsUppgiftFixxo.props",
+      "PackagePath": "buildMultiTargeting\\InlamningsUppgiftFixxo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.InlamningsUppgiftFixxo.props",
+      "PackagePath": "buildTransitive\\InlamningsUppgiftFixxo.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

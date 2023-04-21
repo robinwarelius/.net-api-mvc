@@ -1,0 +1,49 @@
+﻿@model RegisterUserViewModel;
+@{
+    ViewBag.Title = "Register";
+}
+
+<section class="user-input-content">
+    <div class="container user-input-links-item">
+        <a asp-controller="Home" asp-action="Index" class="user-input-link">Home > </a>
+        <span class="user-input-text">Register</span>
+    </div>
+
+    <div class="container">
+        <form class="user-input-form" asp-controller="Account" asp-action="Register" method="post" novalidate>
+
+            <h6 class="user-input-title">Register</h6>
+
+            <div class="user-input-item">
+                <input asp-for="FirstName" class="user-input" placeholder="FirstName" onkeyup="validate(event)" />
+                <span asp-validation-for="FirstName"></span>
+            </div>
+
+            <div class="user-input-item">
+                <input class="user-input" asp-for="LastName" placeholder="Lastname" onkeyup="validate(event)" />
+                <span asp-validation-for="LastName"></span>
+            </div>
+
+            <div class="user-input-item">
+                <input class="user-input" asp-for="Email" placeholder="Email" onkeyup="validate(event)" />
+                <span asp-validation-for="Email"></span>
+            </div>
+
+            <div class="user-input-item">
+                <input class="user-input" asp-for="Password" placeholder="Password" onkeyup="validate(event)" />
+                <span asp-validation-for="Password"></span>
+            </div>
+
+            <div class="user-input-item">
+                <input class="user-input" asp-for="ConfirmPassword" placeholder="Confirm Password" onkeyup="validate(event)"  />
+                <span asp-validation-for="ConfirmPassword"></span>
+            </div>
+
+            <div class="user-button-content">
+
+                <button class="input-button" type="submit">Register</button>
+                             
+            </div>
+        </form>
+    </div>
+</section>

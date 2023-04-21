@@ -1,0 +1,26 @@
+﻿@{
+    ViewBag.Tilte = "Admin";
+}
+
+
+<section>
+    <div class="container user-input-links-item mt-3">
+        <a asp-controller="Home" asp-action="Index" class="user-input-link">Home > </a>
+        <span class="user-input-text">Admin</span>
+    </div>
+
+
+    <div class="container admin-content">
+
+        <h4 class="product-title mb-5">Welcome Admin</h4>
+
+        <div>
+            <a asp-controller="admin" asp-action="DeleteProduct" id="admin-input" class="input-login-button">Delete Product</a>
+        </div>
+        <div>
+            <a asp-controller="admin" asp-action="AddProduct" id="admin-input" class="input-login-button">Add Product</a>
+        </div>
+
+    </div>
+</section>
+

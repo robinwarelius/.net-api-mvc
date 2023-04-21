@@ -1,0 +1,16 @@
+﻿@model ShowcaseModel
+
+
+<div class="showcase">
+    <div class="container">
+        <div class="content">
+            <div class="title-1">@Model.Title</div>
+            <div class="title-2">@Model.Ingress</div>
+            <div class="title-3">@Model.DeliveryText</div>
+            <button class="btn-theme">@Model.ButtonText</button>
+        </div>
+        <div class="content-image">
+            <img src="~/@Model.ImageUrl" />
+        </div>
+    </div>
+</div>

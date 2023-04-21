@@ -1,0 +1,19 @@
+﻿@model ProductModel
+
+
+<div class="item">
+
+    <div class="image-section">
+        <img class="image-collection-item" src="@Model.ImageUrl" alt="" />
+        <div class="menu">
+            <a asp-controller="Admin" asp-action="DeleteProductAdmin" asp-route-id="@Model.ProductId" class="btn-theme">DELETE</a>
+        </div>
+    </div>
+
+    <div class="body-section">
+        <div class="name">@Model.Title</div>
+        <partial name="~/Views/Shared/Partials/_StarRatingPartial.cshtml" model="Model.Rating" />
+        <div class="price">@Model.Price</div>
+    </div>
+
+</div>

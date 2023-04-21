@@ -1,0 +1,34 @@
+﻿@model IndexViewModel;
+@{
+    ViewBag.Title = "Home"; 
+}
+
+
+<partial name="~/Views/Shared/Partials/_ShowcasePartial.cshtml" model="Model.ShowcaseModel"></partial>
+
+<partial name="~/Views/Shared/Partials/_CollectionPartial.cshtml" model="Model.CollectionModel[0]"></partial>
+
+<partial name="~/Views/Shared/Partials/_DiscountOfferPartial.cshtml"></partial>
+
+<partial name="~/Views/Shared/Partials/_NewProductsPartial.cshtml" model="Model.CollectionModel[1]"></partial>
+
+<partial name="~/Views/Shared/Partials/_PopularProductsPartial.cshtml" model="Model.CollectionModel[2]"></partial>
+
+<partial name="~/Views/Shared/Partials/_InformationPartial.cshtml"></partial>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+   

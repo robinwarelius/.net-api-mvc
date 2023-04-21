@@ -1,0 +1,134 @@
+C:\Users\Robin\OneDrive\Skrivbord\Asp.Net 1\Inlämnings-Uppgift\InlamningsUppgiftFixxo\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Robin\OneDrive\Skrivbord\Asp.Net 1\Inlämnings-Uppgift\InlamningsUppgiftFixxo\bin\Debug\net7.0\appsettings.json
+C:\Users\Robin\OneDrive\Skrivbord\Asp.Net 1\Inlämnings-Uppgift\InlamningsUppgiftFixxo\bin\Debug\net7.0\InlamningsUppgiftFixxo.exe
+C:\Users\Robin\OneDrive\Skrivbord\Asp.Net 1\Inlämnings-Uppgift\InlamningsUppgiftFixxo\bin\Debug\net7.0\InlamningsUppgiftFixxo.deps.json
+C:\Users\Robin\OneDrive\Skrivbord\Asp.Net 1\Inlämnings-Uppgift\InlamningsUppgiftFixxo\bin\Debug\net7.0\InlamningsUppgiftFixxo.runtimeconfig.json
+C:\Users\Robin\OneDrive\Skrivbord\Asp.Net 1\Inlämnings-Uppgift\InlamningsUppgiftFixxo\bin\Debug\net7.0\InlamningsUppgiftFixxo.dll
+C:\Users\Robin\OneDrive\Skrivbord\Asp.Net 1\Inlämnings-Uppgift\InlamningsUppgiftFixxo\bin\Debug\net7.0\InlamningsUppgiftFixxo.pdb
+C:\Users\Robin\OneDrive\Skrivbord\Asp.Net 1\Inlämnings-Uppgift\InlamningsUppgiftFixxo\obj\Debug\net7.0\InlamningsUppgiftFixxo.csproj.AssemblyReference.cache
+C:\Users\Robin\OneDrive\Skrivbord\Asp.Net 1\Inlämnings-Uppgift\InlamningsUppgiftFixxo\obj\Debug\net7.0\InlamningsUppgiftFixxo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robin\OneDrive\Skrivbord\Asp.Net 1\Inlämnings-Uppgift\InlamningsUppgiftFixxo\obj\Debug\net7.0\InlamningsUppgiftFixxo.AssemblyInfoInputs.cache
+C:\Users\Robin\OneDrive\Skrivbord\Asp.Net 1\Inlämnings-Uppgift\InlamningsUppgiftFixxo\obj\Debug\net7.0\InlamningsUppgiftFixxo.AssemblyInfo.cs
+C:\Users\Robin\OneDrive\Skrivbord\Asp.Net 1\Inlämnings-Uppgift\InlamningsUppgiftFixxo\obj\Debug\net7.0\InlamningsUppgiftFixxo.csproj.CoreCompileInputs.cache
+C:\Users\Robin\OneDrive\Skrivbord\Asp.Net 1\Inlämnings-Uppgift\InlamningsUppgiftFixxo\obj\Debug\net7.0\InlamningsUppgiftFixxo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Robin\OneDrive\Skrivbord\Asp.Net 1\Inlämnings-Uppgift\InlamningsUppgiftFixxo\obj\Debug\net7.0\InlamningsUppgiftFixxo.RazorAssemblyInfo.cache
+C:\Users\Robin\OneDrive\Skrivbord\Asp.Net 1\Inlämnings-Uppgift\InlamningsUppgiftFixxo\obj\Debug\net7.0\InlamningsUppgiftFixxo.RazorAssemblyInfo.cs
+C:\Users\Robin\OneDrive\Skrivbord\Asp.Net 1\Inlämnings-Uppgift\InlamningsUppgiftFixxo\obj\Debug\net7.0\staticwebassets\msbuild.InlamningsUppgiftFixxo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Robin\OneDrive\Skrivbord\Asp.Net 1\Inlämnings-Uppgift\InlamningsUppgiftFixxo\obj\Debug\net7.0\staticwebassets\msbuild.build.InlamningsUppgiftFixxo.props
+C:\Users\Robin\OneDrive\Skrivbord\Asp.Net 1\Inlämnings-Uppgift\InlamningsUppgiftFixxo\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.InlamningsUppgiftFixxo.props
+C:\Users\Robin\OneDrive\Skrivbord\Asp.Net 1\Inlämnings-Uppgift\InlamningsUppgiftFixxo\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.InlamningsUppgiftFixxo.props
+C:\Users\Robin\OneDrive\Skrivbord\Asp.Net 1\Inlämnings-Uppgift\InlamningsUppgiftFixxo\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Robin\OneDrive\Skrivbord\Asp.Net 1\Inlämnings-Uppgift\InlamningsUppgiftFixxo\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Robin\OneDrive\Skrivbord\Asp.Net 1\Inlämnings-Uppgift\InlamningsUppgiftFixxo\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Robin\OneDrive\Skrivbord\Asp.Net 1\Inlämnings-Uppgift\InlamningsUppgiftFixxo\obj\Debug\net7.0\scopedcss\bundle\InlamningsUppgiftFixxo.styles.css
+C:\Users\Robin\OneDrive\Skrivbord\Asp.Net 1\Inlämnings-Uppgift\InlamningsUppgiftFixxo\obj\Debug\net7.0\InlamningsUppgiftFixxo.dll
+C:\Users\Robin\OneDrive\Skrivbord\Asp.Net 1\Inlämnings-Uppgift\InlamningsUppgiftFixxo\obj\Debug\net7.0\refint\InlamningsUppgiftFixxo.dll
+C:\Users\Robin\OneDrive\Skrivbord\Asp.Net 1\Inlämnings-Uppgift\InlamningsUppgiftFixxo\obj\Debug\net7.0\InlamningsUppgiftFixxo.pdb
+C:\Users\Robin\OneDrive\Skrivbord\Asp.Net 1\Inlämnings-Uppgift\InlamningsUppgiftFixxo\obj\Debug\net7.0\InlamningsUppgiftFixxo.genruntimeconfig.cache
+C:\Users\Robin\OneDrive\Skrivbord\Asp.Net 1\Inlämnings-Uppgift\InlamningsUppgiftFixxo\obj\Debug\net7.0\ref\InlamningsUppgiftFixxo.dll
+C:\Users\Robin\OneDrive\Skrivbord\Asp.Net 1\Inlämnings-Uppgift\InlamningsUppgiftFixxo\bin\Debug\net7.0\InlamningsUppgiftFixxo.staticwebassets.runtime.json
+C:\Users\Robin\OneDrive\Skrivbord\1Asp.Net\Inlämnings-Uppgift\InlamningsUppgiftFixxo\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Robin\OneDrive\Skrivbord\1Asp.Net\Inlämnings-Uppgift\InlamningsUppgiftFixxo\bin\Debug\net7.0\appsettings.json
+C:\Users\Robin\OneDrive\Skrivbord\1Asp.Net\Inlämnings-Uppgift\InlamningsUppgiftFixxo\bin\Debug\net7.0\InlamningsUppgiftFixxo.staticwebassets.runtime.json
+C:\Users\Robin\OneDrive\Skrivbord\1Asp.Net\Inlämnings-Uppgift\InlamningsUppgiftFixxo\bin\Debug\net7.0\InlamningsUppgiftFixxo.exe
+C:\Users\Robin\OneDrive\Skrivbord\1Asp.Net\Inlämnings-Uppgift\InlamningsUppgiftFixxo\bin\Debug\net7.0\InlamningsUppgiftFixxo.deps.json
+C:\Users\Robin\OneDrive\Skrivbord\1Asp.Net\Inlämnings-Uppgift\InlamningsUppgiftFixxo\bin\Debug\net7.0\InlamningsUppgiftFixxo.runtimeconfig.json
+C:\Users\Robin\OneDrive\Skrivbord\1Asp.Net\Inlämnings-Uppgift\InlamningsUppgiftFixxo\bin\Debug\net7.0\InlamningsUppgiftFixxo.dll
+C:\Users\Robin\OneDrive\Skrivbord\1Asp.Net\Inlämnings-Uppgift\InlamningsUppgiftFixxo\bin\Debug\net7.0\InlamningsUppgiftFixxo.pdb
+C:\Users\Robin\OneDrive\Skrivbord\1Asp.Net\Inlämnings-Uppgift\InlamningsUppgiftFixxo\obj\Debug\net7.0\InlamningsUppgiftFixxo.csproj.AssemblyReference.cache
+C:\Users\Robin\OneDrive\Skrivbord\1Asp.Net\Inlämnings-Uppgift\InlamningsUppgiftFixxo\obj\Debug\net7.0\InlamningsUppgiftFixxo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robin\OneDrive\Skrivbord\1Asp.Net\Inlämnings-Uppgift\InlamningsUppgiftFixxo\obj\Debug\net7.0\InlamningsUppgiftFixxo.AssemblyInfoInputs.cache
+C:\Users\Robin\OneDrive\Skrivbord\1Asp.Net\Inlämnings-Uppgift\InlamningsUppgiftFixxo\obj\Debug\net7.0\InlamningsUppgiftFixxo.AssemblyInfo.cs
+C:\Users\Robin\OneDrive\Skrivbord\1Asp.Net\Inlämnings-Uppgift\InlamningsUppgiftFixxo\obj\Debug\net7.0\InlamningsUppgiftFixxo.csproj.CoreCompileInputs.cache
+C:\Users\Robin\OneDrive\Skrivbord\1Asp.Net\Inlämnings-Uppgift\InlamningsUppgiftFixxo\obj\Debug\net7.0\InlamningsUppgiftFixxo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Robin\OneDrive\Skrivbord\1Asp.Net\Inlämnings-Uppgift\InlamningsUppgiftFixxo\obj\Debug\net7.0\InlamningsUppgiftFixxo.RazorAssemblyInfo.cache
+C:\Users\Robin\OneDrive\Skrivbord\1Asp.Net\Inlämnings-Uppgift\InlamningsUppgiftFixxo\obj\Debug\net7.0\InlamningsUppgiftFixxo.RazorAssemblyInfo.cs
+C:\Users\Robin\OneDrive\Skrivbord\1Asp.Net\Inlämnings-Uppgift\InlamningsUppgiftFixxo\obj\Debug\net7.0\staticwebassets\msbuild.InlamningsUppgiftFixxo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Robin\OneDrive\Skrivbord\1Asp.Net\Inlämnings-Uppgift\InlamningsUppgiftFixxo\obj\Debug\net7.0\staticwebassets\msbuild.build.InlamningsUppgiftFixxo.props
+C:\Users\Robin\OneDrive\Skrivbord\1Asp.Net\Inlämnings-Uppgift\InlamningsUppgiftFixxo\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.InlamningsUppgiftFixxo.props
+C:\Users\Robin\OneDrive\Skrivbord\1Asp.Net\Inlämnings-Uppgift\InlamningsUppgiftFixxo\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.InlamningsUppgiftFixxo.props
+C:\Users\Robin\OneDrive\Skrivbord\1Asp.Net\Inlämnings-Uppgift\InlamningsUppgiftFixxo\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Robin\OneDrive\Skrivbord\1Asp.Net\Inlämnings-Uppgift\InlamningsUppgiftFixxo\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Robin\OneDrive\Skrivbord\1Asp.Net\Inlämnings-Uppgift\InlamningsUppgiftFixxo\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Robin\OneDrive\Skrivbord\1Asp.Net\Inlämnings-Uppgift\InlamningsUppgiftFixxo\obj\Debug\net7.0\scopedcss\bundle\InlamningsUppgiftFixxo.styles.css
+C:\Users\Robin\OneDrive\Skrivbord\1Asp.Net\Inlämnings-Uppgift\InlamningsUppgiftFixxo\obj\Debug\net7.0\InlamningsUppgiftFixxo.dll
+C:\Users\Robin\OneDrive\Skrivbord\1Asp.Net\Inlämnings-Uppgift\InlamningsUppgiftFixxo\obj\Debug\net7.0\refint\InlamningsUppgiftFixxo.dll
+C:\Users\Robin\OneDrive\Skrivbord\1Asp.Net\Inlämnings-Uppgift\InlamningsUppgiftFixxo\obj\Debug\net7.0\InlamningsUppgiftFixxo.pdb
+C:\Users\Robin\OneDrive\Skrivbord\1Asp.Net\Inlämnings-Uppgift\InlamningsUppgiftFixxo\obj\Debug\net7.0\InlamningsUppgiftFixxo.genruntimeconfig.cache
+C:\Users\Robin\OneDrive\Skrivbord\1Asp.Net\Inlämnings-Uppgift\InlamningsUppgiftFixxo\obj\Debug\net7.0\ref\InlamningsUppgiftFixxo.dll
+C:\Users\Robin\OneDrive\Skrivbord\Asp.Net.01\Inlämnings-Uppgift\InlamningsUppgiftFixxo\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Robin\OneDrive\Skrivbord\Asp.Net.01\Inlämnings-Uppgift\InlamningsUppgiftFixxo\bin\Debug\net7.0\appsettings.json
+C:\Users\Robin\OneDrive\Skrivbord\Asp.Net.01\Inlämnings-Uppgift\InlamningsUppgiftFixxo\bin\Debug\net7.0\InlamningsUppgiftFixxo.staticwebassets.runtime.json
+C:\Users\Robin\OneDrive\Skrivbord\Asp.Net.01\Inlämnings-Uppgift\InlamningsUppgiftFixxo\bin\Debug\net7.0\InlamningsUppgiftFixxo.exe
+C:\Users\Robin\OneDrive\Skrivbord\Asp.Net.01\Inlämnings-Uppgift\InlamningsUppgiftFixxo\bin\Debug\net7.0\InlamningsUppgiftFixxo.deps.json
+C:\Users\Robin\OneDrive\Skrivbord\Asp.Net.01\Inlämnings-Uppgift\InlamningsUppgiftFixxo\bin\Debug\net7.0\InlamningsUppgiftFixxo.runtimeconfig.json
+C:\Users\Robin\OneDrive\Skrivbord\Asp.Net.01\Inlämnings-Uppgift\InlamningsUppgiftFixxo\bin\Debug\net7.0\InlamningsUppgiftFixxo.dll
+C:\Users\Robin\OneDrive\Skrivbord\Asp.Net.01\Inlämnings-Uppgift\InlamningsUppgiftFixxo\bin\Debug\net7.0\InlamningsUppgiftFixxo.pdb
+C:\Users\Robin\OneDrive\Skrivbord\Asp.Net.01\Inlämnings-Uppgift\InlamningsUppgiftFixxo\obj\Debug\net7.0\InlamningsUppgiftFixxo.csproj.AssemblyReference.cache
+C:\Users\Robin\OneDrive\Skrivbord\Asp.Net.01\Inlämnings-Uppgift\InlamningsUppgiftFixxo\obj\Debug\net7.0\InlamningsUppgiftFixxo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robin\OneDrive\Skrivbord\Asp.Net.01\Inlämnings-Uppgift\InlamningsUppgiftFixxo\obj\Debug\net7.0\InlamningsUppgiftFixxo.AssemblyInfoInputs.cache
+C:\Users\Robin\OneDrive\Skrivbord\Asp.Net.01\Inlämnings-Uppgift\InlamningsUppgiftFixxo\obj\Debug\net7.0\InlamningsUppgiftFixxo.AssemblyInfo.cs
+C:\Users\Robin\OneDrive\Skrivbord\Asp.Net.01\Inlämnings-Uppgift\InlamningsUppgiftFixxo\obj\Debug\net7.0\InlamningsUppgiftFixxo.csproj.CoreCompileInputs.cache
+C:\Users\Robin\OneDrive\Skrivbord\Asp.Net.01\Inlämnings-Uppgift\InlamningsUppgiftFixxo\obj\Debug\net7.0\InlamningsUppgiftFixxo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Robin\OneDrive\Skrivbord\Asp.Net.01\Inlämnings-Uppgift\InlamningsUppgiftFixxo\obj\Debug\net7.0\InlamningsUppgiftFixxo.RazorAssemblyInfo.cache
+C:\Users\Robin\OneDrive\Skrivbord\Asp.Net.01\Inlämnings-Uppgift\InlamningsUppgiftFixxo\obj\Debug\net7.0\InlamningsUppgiftFixxo.RazorAssemblyInfo.cs
+C:\Users\Robin\OneDrive\Skrivbord\Asp.Net.01\Inlämnings-Uppgift\InlamningsUppgiftFixxo\obj\Debug\net7.0\staticwebassets\msbuild.InlamningsUppgiftFixxo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Robin\OneDrive\Skrivbord\Asp.Net.01\Inlämnings-Uppgift\InlamningsUppgiftFixxo\obj\Debug\net7.0\staticwebassets\msbuild.build.InlamningsUppgiftFixxo.props
+C:\Users\Robin\OneDrive\Skrivbord\Asp.Net.01\Inlämnings-Uppgift\InlamningsUppgiftFixxo\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.InlamningsUppgiftFixxo.props
+C:\Users\Robin\OneDrive\Skrivbord\Asp.Net.01\Inlämnings-Uppgift\InlamningsUppgiftFixxo\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.InlamningsUppgiftFixxo.props
+C:\Users\Robin\OneDrive\Skrivbord\Asp.Net.01\Inlämnings-Uppgift\InlamningsUppgiftFixxo\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Robin\OneDrive\Skrivbord\Asp.Net.01\Inlämnings-Uppgift\InlamningsUppgiftFixxo\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Robin\OneDrive\Skrivbord\Asp.Net.01\Inlämnings-Uppgift\InlamningsUppgiftFixxo\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Robin\OneDrive\Skrivbord\Asp.Net.01\Inlämnings-Uppgift\InlamningsUppgiftFixxo\obj\Debug\net7.0\scopedcss\bundle\InlamningsUppgiftFixxo.styles.css
+C:\Users\Robin\OneDrive\Skrivbord\Asp.Net.01\Inlämnings-Uppgift\InlamningsUppgiftFixxo\obj\Debug\net7.0\InlamningsUppgiftFixxo.dll
+C:\Users\Robin\OneDrive\Skrivbord\Asp.Net.01\Inlämnings-Uppgift\InlamningsUppgiftFixxo\obj\Debug\net7.0\refint\InlamningsUppgiftFixxo.dll
+C:\Users\Robin\OneDrive\Skrivbord\Asp.Net.01\Inlämnings-Uppgift\InlamningsUppgiftFixxo\obj\Debug\net7.0\InlamningsUppgiftFixxo.pdb
+C:\Users\Robin\OneDrive\Skrivbord\Asp.Net.01\Inlämnings-Uppgift\InlamningsUppgiftFixxo\obj\Debug\net7.0\InlamningsUppgiftFixxo.genruntimeconfig.cache
+C:\Users\Robin\OneDrive\Skrivbord\Asp.Net.01\Inlämnings-Uppgift\InlamningsUppgiftFixxo\obj\Debug\net7.0\ref\InlamningsUppgiftFixxo.dll
+C:\Users\Robin\OneDrive\Skrivbord\Asp.Net.01\Inlämnings-Uppgift\InlamningsUppgiftFixxo\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Robin\OneDrive\Skrivbord\Asp.Net.01\Inlämnings-Uppgift\InlamningsUppgiftFixxo\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Robin\OneDrive\Skrivbord\Asp.Net.01\Inlämnings-Uppgift\InlamningsUppgiftFixxo\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Robin\OneDrive\Skrivbord\Asp.Net.01\Inlämnings-Uppgift\InlamningsUppgiftFixxo\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Robin\OneDrive\Skrivbord\Asp.Net.01\Inlämnings-Uppgift\InlamningsUppgiftFixxo\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Robin\OneDrive\Skrivbord\Asp.Net.01\Inlämnings-Uppgift\InlamningsUppgiftFixxo\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Robin\OneDrive\Skrivbord\Asp.Net.01\Inlämnings-Uppgift\InlamningsUppgiftFixxo\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Robin\OneDrive\Skrivbord\Asp.Net.01\Inlämnings-Uppgift\InlamningsUppgiftFixxo\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Robin\OneDrive\Skrivbord\Asp.Net.01\Inlämnings-Uppgift\InlamningsUppgiftFixxo\obj\Debug\net7.0\InlamningsUppgiftFixxo.csproj.CopyComplete
+C:\Users\Robin\OneDrive\Skrivbord\Asp.Net.01\Inlämnings-Uppgift\Uppgift\InlamningsUppgiftFixxo\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Robin\OneDrive\Skrivbord\Asp.Net.01\Inlämnings-Uppgift\Uppgift\InlamningsUppgiftFixxo\bin\Debug\net7.0\appsettings.json
+C:\Users\Robin\OneDrive\Skrivbord\Asp.Net.01\Inlämnings-Uppgift\Uppgift\InlamningsUppgiftFixxo\bin\Debug\net7.0\InlamningsUppgiftFixxo.staticwebassets.runtime.json
+C:\Users\Robin\OneDrive\Skrivbord\Asp.Net.01\Inlämnings-Uppgift\Uppgift\InlamningsUppgiftFixxo\bin\Debug\net7.0\InlamningsUppgiftFixxo.exe
+C:\Users\Robin\OneDrive\Skrivbord\Asp.Net.01\Inlämnings-Uppgift\Uppgift\InlamningsUppgiftFixxo\bin\Debug\net7.0\InlamningsUppgiftFixxo.deps.json
+C:\Users\Robin\OneDrive\Skrivbord\Asp.Net.01\Inlämnings-Uppgift\Uppgift\InlamningsUppgiftFixxo\bin\Debug\net7.0\InlamningsUppgiftFixxo.runtimeconfig.json
+C:\Users\Robin\OneDrive\Skrivbord\Asp.Net.01\Inlämnings-Uppgift\Uppgift\InlamningsUppgiftFixxo\bin\Debug\net7.0\InlamningsUppgiftFixxo.dll
+C:\Users\Robin\OneDrive\Skrivbord\Asp.Net.01\Inlämnings-Uppgift\Uppgift\InlamningsUppgiftFixxo\bin\Debug\net7.0\InlamningsUppgiftFixxo.pdb
+C:\Users\Robin\OneDrive\Skrivbord\Asp.Net.01\Inlämnings-Uppgift\Uppgift\InlamningsUppgiftFixxo\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Robin\OneDrive\Skrivbord\Asp.Net.01\Inlämnings-Uppgift\Uppgift\InlamningsUppgiftFixxo\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Robin\OneDrive\Skrivbord\Asp.Net.01\Inlämnings-Uppgift\Uppgift\InlamningsUppgiftFixxo\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Robin\OneDrive\Skrivbord\Asp.Net.01\Inlämnings-Uppgift\Uppgift\InlamningsUppgiftFixxo\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Robin\OneDrive\Skrivbord\Asp.Net.01\Inlämnings-Uppgift\Uppgift\InlamningsUppgiftFixxo\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Robin\OneDrive\Skrivbord\Asp.Net.01\Inlämnings-Uppgift\Uppgift\InlamningsUppgiftFixxo\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Robin\OneDrive\Skrivbord\Asp.Net.01\Inlämnings-Uppgift\Uppgift\InlamningsUppgiftFixxo\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Robin\OneDrive\Skrivbord\Asp.Net.01\Inlämnings-Uppgift\Uppgift\InlamningsUppgiftFixxo\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Robin\OneDrive\Skrivbord\Asp.Net.01\Inlämnings-Uppgift\Uppgift\InlamningsUppgiftFixxo\obj\Debug\net7.0\InlamningsUppgiftFixxo.csproj.AssemblyReference.cache
+C:\Users\Robin\OneDrive\Skrivbord\Asp.Net.01\Inlämnings-Uppgift\Uppgift\InlamningsUppgiftFixxo\obj\Debug\net7.0\InlamningsUppgiftFixxo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robin\OneDrive\Skrivbord\Asp.Net.01\Inlämnings-Uppgift\Uppgift\InlamningsUppgiftFixxo\obj\Debug\net7.0\InlamningsUppgiftFixxo.AssemblyInfoInputs.cache
+C:\Users\Robin\OneDrive\Skrivbord\Asp.Net.01\Inlämnings-Uppgift\Uppgift\InlamningsUppgiftFixxo\obj\Debug\net7.0\InlamningsUppgiftFixxo.AssemblyInfo.cs
+C:\Users\Robin\OneDrive\Skrivbord\Asp.Net.01\Inlämnings-Uppgift\Uppgift\InlamningsUppgiftFixxo\obj\Debug\net7.0\InlamningsUppgiftFixxo.csproj.CoreCompileInputs.cache
+C:\Users\Robin\OneDrive\Skrivbord\Asp.Net.01\Inlämnings-Uppgift\Uppgift\InlamningsUppgiftFixxo\obj\Debug\net7.0\InlamningsUppgiftFixxo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Robin\OneDrive\Skrivbord\Asp.Net.01\Inlämnings-Uppgift\Uppgift\InlamningsUppgiftFixxo\obj\Debug\net7.0\InlamningsUppgiftFixxo.RazorAssemblyInfo.cache
+C:\Users\Robin\OneDrive\Skrivbord\Asp.Net.01\Inlämnings-Uppgift\Uppgift\InlamningsUppgiftFixxo\obj\Debug\net7.0\InlamningsUppgiftFixxo.RazorAssemblyInfo.cs
+C:\Users\Robin\OneDrive\Skrivbord\Asp.Net.01\Inlämnings-Uppgift\Uppgift\InlamningsUppgiftFixxo\obj\Debug\net7.0\staticwebassets\msbuild.InlamningsUppgiftFixxo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Robin\OneDrive\Skrivbord\Asp.Net.01\Inlämnings-Uppgift\Uppgift\InlamningsUppgiftFixxo\obj\Debug\net7.0\staticwebassets\msbuild.build.InlamningsUppgiftFixxo.props
+C:\Users\Robin\OneDrive\Skrivbord\Asp.Net.01\Inlämnings-Uppgift\Uppgift\InlamningsUppgiftFixxo\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.InlamningsUppgiftFixxo.props
+C:\Users\Robin\OneDrive\Skrivbord\Asp.Net.01\Inlämnings-Uppgift\Uppgift\InlamningsUppgiftFixxo\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.InlamningsUppgiftFixxo.props
+C:\Users\Robin\OneDrive\Skrivbord\Asp.Net.01\Inlämnings-Uppgift\Uppgift\InlamningsUppgiftFixxo\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Robin\OneDrive\Skrivbord\Asp.Net.01\Inlämnings-Uppgift\Uppgift\InlamningsUppgiftFixxo\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Robin\OneDrive\Skrivbord\Asp.Net.01\Inlämnings-Uppgift\Uppgift\InlamningsUppgiftFixxo\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Robin\OneDrive\Skrivbord\Asp.Net.01\Inlämnings-Uppgift\Uppgift\InlamningsUppgiftFixxo\obj\Debug\net7.0\scopedcss\bundle\InlamningsUppgiftFixxo.styles.css
+C:\Users\Robin\OneDrive\Skrivbord\Asp.Net.01\Inlämnings-Uppgift\Uppgift\InlamningsUppgiftFixxo\obj\Debug\net7.0\InlamningsUppgiftFixxo.csproj.CopyComplete
+C:\Users\Robin\OneDrive\Skrivbord\Asp.Net.01\Inlämnings-Uppgift\Uppgift\InlamningsUppgiftFixxo\obj\Debug\net7.0\InlamningsUppgiftFixxo.dll
+C:\Users\Robin\OneDrive\Skrivbord\Asp.Net.01\Inlämnings-Uppgift\Uppgift\InlamningsUppgiftFixxo\obj\Debug\net7.0\refint\InlamningsUppgiftFixxo.dll
+C:\Users\Robin\OneDrive\Skrivbord\Asp.Net.01\Inlämnings-Uppgift\Uppgift\InlamningsUppgiftFixxo\obj\Debug\net7.0\InlamningsUppgiftFixxo.pdb
+C:\Users\Robin\OneDrive\Skrivbord\Asp.Net.01\Inlämnings-Uppgift\Uppgift\InlamningsUppgiftFixxo\obj\Debug\net7.0\InlamningsUppgiftFixxo.genruntimeconfig.cache
+C:\Users\Robin\OneDrive\Skrivbord\Asp.Net.01\Inlämnings-Uppgift\Uppgift\InlamningsUppgiftFixxo\obj\Debug\net7.0\ref\InlamningsUppgiftFixxo.dll

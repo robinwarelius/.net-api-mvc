@@ -1,0 +1,28 @@
+﻿@model CollectionModel;
+
+
+
+<div class="container-fluid mt-5">
+    <div class="row">
+        <div class="profile-box col-lg-6">
+
+            <div class="mb-5 product-title">@Model.Title</div>
+
+            <div class="collection-grid">
+                <div class="item-collection">                   
+                   
+                    @foreach (var item in Model.CollectionItemModel)
+                    {
+                        <partial name="~/Views/Shared/Partials/_CollectionItemPartial.cshtml" model="item"></partial>
+                    }
+                                         
+                </div>
+            </div>
+        </div>
+
+        <div style="text-align:center" class="profile-box col-lg-6 popular_products_container">
+            <h2 class="title">2 FOR USD $49</h2>
+            <a class="btn-white" asp-controller="Product" asp-action="GetSortedProducts" asp-route-Category="popular">@Model.Title</a>
+        </div>
+    </div>
+</div>
